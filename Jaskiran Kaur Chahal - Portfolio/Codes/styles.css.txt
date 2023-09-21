@@ -1,0 +1,30 @@
+<style>
+h1{color: darkorchid; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h2{color: darkred; text-decoration-line: underline;}
+h3{color: deeppink; text-decoration: underline;}
+p{color: darkslategrey;}
+aside{width: 350px; float: right;
+padding: 20px; background-color: #e9d2a6; margin-right: 20px;
+}
+body{border: 3px double brown; padding: 10px;
+    margin: 5px; box-shadow: 3px 3px 5px 5px lightcoral;}
+    #nav_bar ul {
+list-style-type: circle;
+padding: 1em 0;
+text-align: center;
+border-top: 2px solid black;
+border-bottom: 2px solid black;
+ }
+#nav_bar ul li {
+display: inline; padding: 0.5em 1.5em; border: 2.5px solid cornflowerblue;
+margin: 20px; }
+#nav_bar ul li a {
+font-weight: bold; font-size: large; 
+color: deeppink; }
+#nav_bar ul li a.current { text-decoration: none; }
+footer{text-align: right;}
+section{border-bottom: 1px dotted lightskyblue;}
+</style>
+
+
+
